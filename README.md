@@ -39,11 +39,9 @@ Software engineer
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://gitlab.com/luncer1)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)](https://gitlab.com/luncer1)
 
-### 👀 Active Repo
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luncer1&repo=algorithm-visualizer)
+### 👀 My Projects (https://github.com/luncer1?tab=repositories)
 
-### 🏆 Github Status
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luncer1)
+
 
 
 ### 🔭 2025 Goal
