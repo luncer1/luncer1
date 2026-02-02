@@ -39,10 +39,11 @@ Software engineer
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](https://gitlab.com/luncer1)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)](https://gitlab.com/luncer1)
 
-### [👀 My Projects] (https://github.com/luncer1?tab=repositories)
+### [👀 My Projects](https://github.com/luncer1?tab=repositories)
 
 ### ☕ Get In Touch
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40lunnncer)](https://x.com/lunnncer)
 [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/295864867863134209)
+
 [📭 Email](mailto:krisstoff123@gmail.com)
 
