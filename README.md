@@ -44,5 +44,5 @@ Software engineer
 ### ☕ Get In Touch
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40lunnncer)](https://x.com/lunnncer)
 [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/295864867863134209)
-📭 Email (https://discordapp.com/users/295864867863134209)
+![📭 Email] (mailto:krisstoff123@gmail.com)
 
